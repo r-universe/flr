@@ -18,3 +18,8 @@
 	url = https://github.com/flr/ggplotFL
 	shallow = true
 	registered = true
+[submodule "FLBRP"]
+	path = FLBRP
+	url = https://github.com/flr/FLBRP
+	shallow = true
+	registered = true
