@@ -8,3 +8,13 @@
 	url = https://github.com/flr/FLCore
 	shallow = true
 	registered = true
+[submodule "FLasher"]
+	path = FLasher
+	url = https://github.com/flr/FLasher
+	shallow = true
+	registered = true
+[submodule "ggplotFL"]
+	path = ggplotFL
+	url = https://github.com/flr/ggplotFL
+	shallow = true
+	registered = true

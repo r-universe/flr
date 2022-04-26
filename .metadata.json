@@ -1,5 +1,11 @@
 [
   {
     "package": "FLCore"
+  },
+  {
+    "package": "FLasher"
+  },
+  {
+    "package": "ggplotFL"
   }
 ]
