@@ -3,12 +3,18 @@
     "package": "FLCore"
   },
   {
-    "package": "FLasher"
-  },
-  {
     "package": "ggplotFL"
   },
   {
     "package": "FLBRP"
+  },
+  {
+    "package": "FLFishery"
+  },
+  {
+    "package": "ss3om"
+  },
+  {
+    "package": "FLasher"
   }
 ]

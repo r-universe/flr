@@ -8,11 +8,6 @@
 	url = https://github.com/flr/FLCore
 	shallow = true
 	registered = true
-[submodule "FLasher"]
-	path = FLasher
-	url = https://github.com/flr/FLasher
-	shallow = true
-	registered = true
 [submodule "ggplotFL"]
 	path = ggplotFL
 	url = https://github.com/flr/ggplotFL
@@ -21,5 +16,20 @@
 [submodule "FLBRP"]
 	path = FLBRP
 	url = https://github.com/flr/FLBRP
+	shallow = true
+	registered = true
+[submodule "FLFishery"]
+	path = FLFishery
+	url = https://github.com/flr/FLFishery
+	shallow = true
+	registered = true
+[submodule "ss3om"]
+	path = ss3om
+	url = https://github.com/flr/ss3om
+	shallow = true
+	registered = true
+[submodule "FLasher"]
+	path = FLasher
+	url = https://github.com/flr/FLasher
 	shallow = true
 	registered = true
