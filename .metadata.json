@@ -21,6 +21,9 @@
     "package": "mse"
   },
   {
+    "package": "FLSRTMB"
+  },
+  {
     "package": "FLasher"
   }
 ]
