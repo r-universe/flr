@@ -24,6 +24,9 @@
     "package": "FLSRTMB"
   },
   {
+    "package": "FLAssess"
+  },
+  {
     "package": "FLasher"
   }
 ]

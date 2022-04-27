@@ -43,6 +43,11 @@
 	url = https://github.com/flr/FLSRTMB
 	shallow = true
 	registered = true
+[submodule "FLAssess"]
+	path = FLAssess
+	url = https://github.com/flr/FLAssess
+	shallow = true
+	registered = true
 [submodule "FLasher"]
 	path = FLasher
 	url = https://github.com/flr/FLasher
