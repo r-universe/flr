@@ -28,6 +28,16 @@
 	url = https://github.com/flr/ss3om
 	shallow = true
 	registered = true
+[submodule "FLa4a"]
+	path = FLa4a
+	url = https://github.com/flr/FLa4a
+	shallow = true
+	registered = true
+[submodule "mse"]
+	path = mse
+	url = https://github.com/flr/mse
+	shallow = true
+	registered = true
 [submodule "FLasher"]
 	path = FLasher
 	url = https://github.com/flr/FLasher
