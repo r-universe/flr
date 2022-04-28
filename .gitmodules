@@ -33,6 +33,16 @@
 	url = https://github.com/flr/FLa4a
 	shallow = true
 	registered = true
+[submodule "a4adiags"]
+	path = a4adiags
+	url = https://github.com/flr/a4adiags
+	shallow = true
+	registered = true
+[submodule "bbm"]
+	path = bbm
+	url = https://github.com/flr/bbm
+	shallow = true
+	registered = true
 [submodule "mse"]
 	path = mse
 	url = https://github.com/flr/mse
