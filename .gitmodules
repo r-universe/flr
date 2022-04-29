@@ -58,6 +58,11 @@
 	url = https://github.com/flr/FLAssess
 	shallow = true
 	registered = true
+[submodule "FLXSA"]
+	path = FLXSA
+	url = https://github.com/flr/FLXSA
+	shallow = true
+	registered = true
 [submodule "FLasher"]
 	path = FLasher
 	url = https://github.com/flr/FLasher
