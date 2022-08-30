@@ -40,5 +40,11 @@
   },
   {
     "package": "FLasher"
+  },
+  {
+    "package": "stockassessment"
+  },
+  {
+    "package": "FLSAM"
   }
 ]
