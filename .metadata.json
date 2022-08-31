@@ -48,6 +48,12 @@
     "package": "FLSAM"
   },
   {
+    "package": "FLFleet"
+  },
+  {
+    "package": "FLash"
+  },
+  {
     "package": "FLBEIA"
   }
 ]

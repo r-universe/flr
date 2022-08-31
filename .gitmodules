@@ -85,6 +85,16 @@
 	url = https://github.com/flr/FLSAM
 	shallow = true
 	registered = true
+[submodule "FLFleet"]
+	path = FLFleet
+	url = https://github.com/flr/FLFleet
+	shallow = true
+	registered = true
+[submodule "FLash"]
+	path = FLash
+	url = https://github.com/flr/FLash
+	shallow = true
+	registered = true
 [submodule "FLBEIA"]
 	path = FLBEIA
 	url = https://github.com/flr/FLBEIA
