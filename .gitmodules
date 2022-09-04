@@ -85,6 +85,12 @@
 	url = https://github.com/flr/FLSAM
 	shallow = true
 	registered = true
+[submodule "FLfse"]
+	path = FLfse
+	url = https://github.com/shfischer/FLfse
+	shallow = true
+	subdir = FLfse
+	registered = true
 [submodule "FLFleet"]
 	path = FLFleet
 	url = https://github.com/flr/FLFleet
