@@ -87,7 +87,7 @@
 	registered = true
 [submodule "FLfse"]
 	path = FLfse
-	url = https://github.com/shfischer/FLfse
+	url = https://github.com/flr/FLfse
 	shallow = true
 	subdir = FLfse
 	registered = true
