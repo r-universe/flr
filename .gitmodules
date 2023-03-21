@@ -48,6 +48,11 @@
 	url = https://github.com/flr/mse
 	shallow = true
 	registered = true
+[submodule "mseviz"]
+	path = mseviz
+	url = https://github.com/flr/mseviz
+	shallow = true
+	registered = true
 [submodule "FLSRTMB"]
 	path = FLSRTMB
 	url = https://github.com/flr/FLSRTMB
