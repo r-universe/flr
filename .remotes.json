@@ -9,7 +9,6 @@
     "package": "stockassessment",
     "url": "https://github.com/fishfollower/SAM",
     "via": ["FLSAM"],
-    "branch": "components",
     "subdir": "stockassessment",
     "from": "FLSAM"
   }
