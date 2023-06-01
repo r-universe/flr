@@ -78,13 +78,6 @@
 	url = https://github.com/flr/FLasher
 	shallow = true
 	registered = true
-[submodule "stockassessment"]
-	path = stockassessment
-	url = https://github.com/fishfollower/SAM
-	shallow = true
-	branch = components
-	subdir = stockassessment
-	registered = true
 [submodule "FLSAM"]
 	path = FLSAM
 	url = https://github.com/flr/FLSAM
