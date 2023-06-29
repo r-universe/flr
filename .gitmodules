@@ -1,111 +1,69 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/flr/universe
-	shallow = true
 	branch = HEAD
 [submodule "FLCore"]
 	path = FLCore
 	url = https://github.com/flr/FLCore
-	shallow = true
-	registered = true
 [submodule "ggplotFL"]
 	path = ggplotFL
 	url = https://github.com/flr/ggplotFL
-	shallow = true
-	registered = true
 [submodule "FLBRP"]
 	path = FLBRP
 	url = https://github.com/flr/FLBRP
-	shallow = true
-	registered = true
 [submodule "FLFishery"]
 	path = FLFishery
 	url = https://github.com/flr/FLFishery
-	shallow = true
-	registered = true
 [submodule "ss3om"]
 	path = ss3om
 	url = https://github.com/flr/ss3om
-	shallow = true
-	registered = true
 [submodule "FLa4a"]
 	path = FLa4a
 	url = https://github.com/flr/FLa4a
-	shallow = true
-	registered = true
 [submodule "a4adiags"]
 	path = a4adiags
 	url = https://github.com/flr/a4adiags
-	shallow = true
-	registered = true
 [submodule "bbm"]
 	path = bbm
 	url = https://github.com/flr/bbm
-	shallow = true
-	registered = true
 [submodule "mse"]
 	path = mse
 	url = https://github.com/flr/mse
-	shallow = true
-	registered = true
 [submodule "mseviz"]
 	path = mseviz
 	url = https://github.com/flr/mseviz
-	shallow = true
-	registered = true
 [submodule "FLSRTMB"]
 	path = FLSRTMB
 	url = https://github.com/flr/FLSRTMB
-	shallow = true
-	registered = true
 [submodule "FLAssess"]
 	path = FLAssess
 	url = https://github.com/flr/FLAssess
-	shallow = true
-	registered = true
 [submodule "FLXSA"]
 	path = FLXSA
 	url = https://github.com/flr/FLXSA
-	shallow = true
-	registered = true
 [submodule "AAP"]
 	path = AAP
 	url = https://github.com/flr/AAP
-	shallow = true
-	registered = true
 [submodule "FLasher"]
 	path = FLasher
 	url = https://github.com/flr/FLasher
-	shallow = true
-	registered = true
 [submodule "FLSAM"]
 	path = FLSAM
 	url = https://github.com/flr/FLSAM
-	shallow = true
-	registered = true
 [submodule "FLfse"]
 	path = FLfse
 	url = https://github.com/flr/FLfse
-	shallow = true
 	subdir = FLfse
-	registered = true
 [submodule "FLFleet"]
 	path = FLFleet
 	url = https://github.com/flr/FLFleet
-	shallow = true
-	registered = true
 [submodule "FLash"]
 	path = FLash
 	url = https://github.com/flr/FLash
-	shallow = true
-	registered = true
 [submodule "FLBEIA"]
 	path = FLBEIA
 	url = https://github.com/flr/FLBEIA
-	shallow = true
-	registered = true
 [submodule "r4ss"]
 	path = r4ss
 	url = https://github.com/r4ss/r4ss
-	shallow = true
 	registered = false
