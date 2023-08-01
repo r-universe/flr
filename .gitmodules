@@ -2,68 +2,68 @@
 	path = .registry
 	url = https://github.com/flr/universe
 	branch = HEAD
-[submodule "FLCore"]
-	path = FLCore
-	url = https://github.com/flr/FLCore
-[submodule "ggplotFL"]
-	path = ggplotFL
-	url = https://github.com/flr/ggplotFL
+[submodule "AAP"]
+	path = AAP
+	url = https://github.com/flr/AAP
+[submodule "FLAssess"]
+	path = FLAssess
+	url = https://github.com/flr/FLAssess
+[submodule "FLBEIA"]
+	path = FLBEIA
+	url = https://github.com/flr/FLBEIA
 [submodule "FLBRP"]
 	path = FLBRP
 	url = https://github.com/flr/FLBRP
+[submodule "FLCore"]
+	path = FLCore
+	url = https://github.com/flr/FLCore
 [submodule "FLFishery"]
 	path = FLFishery
 	url = https://github.com/flr/FLFishery
-[submodule "ss3om"]
-	path = ss3om
-	url = https://github.com/flr/ss3om
+[submodule "FLFleet"]
+	path = FLFleet
+	url = https://github.com/flr/FLFleet
+[submodule "FLSAM"]
+	path = FLSAM
+	url = https://github.com/flr/FLSAM
+[submodule "FLSRTMB"]
+	path = FLSRTMB
+	url = https://github.com/flr/FLSRTMB
+[submodule "FLXSA"]
+	path = FLXSA
+	url = https://github.com/flr/FLXSA
 [submodule "FLa4a"]
 	path = FLa4a
 	url = https://github.com/flr/FLa4a
+[submodule "FLash"]
+	path = FLash
+	url = https://github.com/flr/FLash
+[submodule "FLasher"]
+	path = FLasher
+	url = https://github.com/flr/FLasher
+[submodule "FLfse"]
+	path = FLfse
+	url = https://github.com/flr/FLfse
+	subdir = FLfse
 [submodule "a4adiags"]
 	path = a4adiags
 	url = https://github.com/flr/a4adiags
 [submodule "bbm"]
 	path = bbm
 	url = https://github.com/flr/bbm
+[submodule "ggplotFL"]
+	path = ggplotFL
+	url = https://github.com/flr/ggplotFL
 [submodule "mse"]
 	path = mse
 	url = https://github.com/flr/mse
 [submodule "mseviz"]
 	path = mseviz
 	url = https://github.com/flr/mseviz
-[submodule "FLSRTMB"]
-	path = FLSRTMB
-	url = https://github.com/flr/FLSRTMB
-[submodule "FLAssess"]
-	path = FLAssess
-	url = https://github.com/flr/FLAssess
-[submodule "FLXSA"]
-	path = FLXSA
-	url = https://github.com/flr/FLXSA
-[submodule "AAP"]
-	path = AAP
-	url = https://github.com/flr/AAP
-[submodule "FLasher"]
-	path = FLasher
-	url = https://github.com/flr/FLasher
-[submodule "FLSAM"]
-	path = FLSAM
-	url = https://github.com/flr/FLSAM
-[submodule "FLfse"]
-	path = FLfse
-	url = https://github.com/flr/FLfse
-	subdir = FLfse
-[submodule "FLFleet"]
-	path = FLFleet
-	url = https://github.com/flr/FLFleet
-[submodule "FLash"]
-	path = FLash
-	url = https://github.com/flr/FLash
-[submodule "FLBEIA"]
-	path = FLBEIA
-	url = https://github.com/flr/FLBEIA
 [submodule "r4ss"]
 	path = r4ss
 	url = https://github.com/r4ss/r4ss
 	registered = false
+[submodule "ss3om"]
+	path = ss3om
+	url = https://github.com/flr/ss3om
