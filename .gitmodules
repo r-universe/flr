@@ -25,7 +25,7 @@
 	url = https://github.com/flr/FLFleet
 [submodule "FLRef"]
 	path = FLRef
-	url = https://github.com/Henning-Winker/FLRef
+	url = https://github.com/flr/FLRef
 [submodule "FLSAM"]
 	path = FLSAM
 	url = https://github.com/flr/FLSAM
