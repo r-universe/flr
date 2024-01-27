@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/flr/universe
+	url = https://github.com/flr/flr.r-universe.dev
 	branch = HEAD
 [submodule "AAP"]
 	path = AAP
