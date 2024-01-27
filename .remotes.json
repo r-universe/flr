@@ -1,11 +1,5 @@
 [
   {
-    "package": "r4ss",
-    "url": "https://github.com/r4ss/r4ss",
-    "via": ["ss3om"],
-    "from": "ss3om"
-  },
-  {
     "package": "stockassessment",
     "url": "https://github.com/fishfollower/SAM",
     "via": ["FLSAM"],
