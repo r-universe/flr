@@ -69,8 +69,3 @@
 [submodule "ss3om"]
 	path = ss3om
 	url = https://github.com/flr/ss3om
-[submodule "stockassessment"]
-	path = stockassessment
-	url = https://github.com/fishfollower/SAM
-	subdir = stockassessment
-	registered = false

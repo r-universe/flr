@@ -1,9 +1,0 @@
-[
-  {
-    "package": "stockassessment",
-    "url": "https://github.com/fishfollower/SAM",
-    "via": ["FLSAM"],
-    "subdir": "stockassessment",
-    "from": "FLSAM"
-  }
-]
