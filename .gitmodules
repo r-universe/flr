@@ -48,6 +48,9 @@
 	path = FLfse
 	url = https://github.com/flr/FLfse
 	subdir = FLfse
+[submodule "FLife"]
+	path = FLife
+	url = https://github.com/flr/FLife
 [submodule "a4adiags"]
 	path = a4adiags
 	url = https://github.com/flr/a4adiags
