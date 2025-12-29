@@ -63,6 +63,9 @@
 [submodule "mse"]
 	path = mse
 	url = https://github.com/flr/mse
+[submodule "msemodules"]
+	path = msemodules
+	url = https://github.com/flr/msemodules
 [submodule "mseviz"]
 	path = mseviz
 	url = https://github.com/flr/mseviz
