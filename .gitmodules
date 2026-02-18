@@ -60,6 +60,9 @@
 [submodule "ggplotFL"]
 	path = ggplotFL
 	url = https://github.com/flr/ggplotFL
+[submodule "mpb"]
+	path = mpb
+	url = https://github.com/lauriekell/mpb
 [submodule "mse"]
 	path = mse
 	url = https://github.com/flr/mse
